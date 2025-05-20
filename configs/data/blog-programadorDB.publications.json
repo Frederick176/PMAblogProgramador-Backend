@@ -1,0 +1,102 @@
+[{
+  "_id": {
+    "$oid": "682b980eeac0837613cc0238"
+  },
+  "title": "Introducción a REACT",
+  "description": "REACT es una biblioteca de JavaScript para construir interfases de usuario interactivas, con un enfoque principal en la visualización",
+  "course": {
+    "$oid": "682b92790015a78514fac9e7"
+  },
+  "status": true,
+  "createdAt": {
+    "$date": "2025-05-19T20:43:58.283Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-20T22:17:39.521Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "682b9a591d480636c5e4001d"
+  },
+  "title": "Teoria sobre los métodods HTTP",
+  "description": "Los métodos HTTP son las instrucciones que un cliente que un cliente (como un navegador web) envía a un servidor para indicar que tipo de acción debe realizar un curso especifíco",
+  "course": {
+    "$oid": "682b92790015a78514fac9e7"
+  },
+  "status": true,
+  "createdAt": {
+    "$date": "2025-05-19T20:53:45.094Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-19T20:53:45.094Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "682b9adc1d480636c5e40020"
+  },
+  "title": "Pagina web sobre una Alacenadora",
+  "description": "Los estudiantes realizaron una página web sobre una almacenadora",
+  "course": {
+    "$oid": "682b927a0015a78514fac9ec"
+  },
+  "status": true,
+  "createdAt": {
+    "$date": "2025-05-19T20:55:56.967Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-19T20:55:56.967Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "682ba2f71d480636c5e40023"
+  },
+  "title": "Proyeco de bimestre",
+  "description": "Los estudiantes tienen que hacer un gestor de hoteles.",
+  "course": {
+    "$oid": "682b927a0015a78514fac9ea"
+  },
+  "status": true,
+  "createdAt": {
+    "$date": "2025-05-19T21:30:31.363Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-19T21:30:31.363Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "682ceacdf53a47693fdbf551"
+  },
+  "title": "Ejercicios utilizando JavaScript",
+  "description": "Los estudiantes realizan ejercicios para poder practicar para el examén final del año escolar",
+  "course": {
+    "$oid": "682b927a0015a78514fac9ec"
+  },
+  "status": true,
+  "createdAt": {
+    "$date": "2025-05-20T20:49:17.730Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-20T20:49:17.730Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "682cff04318c5f41bb783b53"
+  },
+  "title": "Laboratorio, rediseño de la página web de Kinal",
+  "description": "Los estudiantes tienen que hacaer un rediseño de la página de kinal, tienen que cumplir con los requerimientos",
+  "course": {
+    "$oid": "682b927a0015a78514fac9ea"
+  },
+  "status": true,
+  "createdAt": {
+    "$date": "2025-05-20T22:15:32.474Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-20T22:15:32.474Z"
+  }
+}]

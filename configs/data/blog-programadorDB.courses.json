@@ -1,0 +1,45 @@
+[{
+  "_id": {
+    "$oid": "682b92790015a78514fac9e7"
+  },
+  "name": "Tecnologia",
+  "description": "El curso de tecnologia es un curso teórico donde los estudiantes aprenderán sobre los fundamentos de la programación y el desarrollo de software.",
+  "teacher": "Braulio Echeverria",
+  "status": true,
+  "createdAt": {
+    "$date": "2025-05-19T20:20:09.967Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-19T20:20:09.967Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "682b927a0015a78514fac9ea"
+  },
+  "name": "Taller",
+  "description": "El curso de taller es un curso práctico donde los estudiantes aprenderán a desarrollar aplicaciones web utilizando tecnologías modernas.",
+  "teacher": "Braulio Echeverria",
+  "status": true,
+  "createdAt": {
+    "$date": "2025-05-19T20:20:10.506Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-19T20:20:10.506Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "682b927a0015a78514fac9ec"
+  },
+  "name": "Practica Supervisada",
+  "description": "El curso de practica supervisada es un curso práctico donde los estudiantes aplicarán todos los conocimientos adquiridos en los cursos anteriores.",
+  "teacher": "Braulio Echeverria",
+  "status": true,
+  "createdAt": {
+    "$date": "2025-05-19T20:20:10.513Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-19T20:20:10.513Z"
+  }
+}]

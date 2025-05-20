@@ -1,0 +1,28 @@
+[{
+  "_id": {
+    "$oid": "682bbbc31fc6fc0474d5d750"
+  },
+  "publicationId": {
+    "$oid": "682b980eeac0837613cc0238"
+  },
+  "name": "Fredy",
+  "comment": "Me gusto la teaoria sobre REACT muy clara y consisa",
+  "date": {
+    "$date": "2025-05-19T23:16:19.227Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "682d075e248dd1dff073cf1a"
+  },
+  "publicationId": {
+    "$oid": "682b98861d480636c5e4001a"
+  },
+  "name": "Luis",
+  "comment": "Animo para poder crear un red LAN",
+  "date": {
+    "$date": "2025-05-20T22:51:10.411Z"
+  },
+  "__v": 0
+}]
